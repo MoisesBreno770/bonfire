@@ -1,0 +1,4 @@
+- npm install -D sass - instalar o sass no projeto 
+logo em seguida referenciar o arquivo cuja extensão .scss no html 
+e por fim executar:
+- npx vite
